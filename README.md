@@ -9,7 +9,7 @@ A simple and interactive To-Do List web application built with HTML, CSS, and Ja
 - Filter tasks by status (All, Done, Not Done)
 - Tasks saved in browser LocalStorage
 
-  ## Tech Stack
+## Tech Stack
 - HTML
 - CSS
 - JavaScript
